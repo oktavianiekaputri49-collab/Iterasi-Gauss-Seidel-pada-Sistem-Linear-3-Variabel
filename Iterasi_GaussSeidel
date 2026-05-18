@@ -1,0 +1,33 @@
+📊 Metode Gauss-Seidel untuk SPL 3 Variabel
+Deskripsi
+Proyek ini berfokus pada penyelesaian Sistem Persamaan Linear (SPL) dengan 3 variabel menggunakan Metode Iteratif Gauss-Seidel hingga mencapai solusi yang konvergen.
+
+Sistem Persamaan
+Sistem terdiri dari 3 persamaan linear yang diubah ke bentuk iteratif untuk memudahkan proses perhitungan:
+−2x1​+x2​+1/2​x3​=4	​
+x1​−2x2​−1/2x3​=−4
+x2​+2x3​=0
+
+Metode & Tools
+Metode Numerik: Gauss-Seidel
+Microsoft Excel
+Iterasi bertahap
+Perhitungan error relatif
+Batas iterasi: 30
+
+Hasil
+Sistem berhasil diselesaikan secara numerik
+Solusi konvergen setelah beberapa iterasi
+Error relatif menurun hingga mencapai toleransi 0,01%–0,1%
+
+Tujuan Proyek
+Memahami konsep metode iteratif pada SPL
+Menganalisis konvergensi metode Gauss-Seidel
+Mengimplementasikan penyelesaian sistem linear secara numerik
+Melatih perhitungan error pada setiap iterasi
+
+Insight
+Metode Gauss-Seidel sangat efektif untuk menyelesaikan SPL karena pendekatan iteratifnya yang cepat menuju solusi stabil dibanding metode langsung.
+
+Penutup
+Proyek ini merupakan latihan metode numerik untuk memahami penyelesaian sistem persamaan linear secara iteratif dan analisis konvergensi.
